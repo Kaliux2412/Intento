@@ -1,0 +1,33 @@
+@font-face {
+    font-family: race;
+    src: url("Fonts/Race\ Sport.ttf");
+}
+body{
+    background-color: black;
+    background-size: cover;
+}
+#perso{
+    height: 100%;
+    width: 400px;
+}
+#ini_gene{
+    width: 100%,
+}
+#opa{
+    opacity: 0.6;
+    width: 96%;
+    height: 96%;
+    background-color: white;
+    position: absolute;
+}
+#medassis{
+    font-family: race;
+    color: white;
+    font-size: 100px;
+    display: flex;
+
+
+}
+#tabla1 th, tr{
+    border: 1px solid black;
+}
